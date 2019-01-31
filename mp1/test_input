@@ -1,0 +1,44 @@
+3    # correlation threshold
+5    # minimum correlation value
+10   # Start of first set of samples
+5
+2
+5
+50
+5
+0
+0
+0
+10   # second set of samples
+5
+5
+10
+5
+10
+0
+0
+0
+1000  # third set of samples
+5
+1000
+5
+5
+5
+0
+0
+0
+4    # fourth set of samples
+0
+-3
+0
+4
+0
+4
+-3
+-1
+-3
+0
+0
+0
+-1    # don't enter any more samples
+
